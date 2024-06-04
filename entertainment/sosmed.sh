@@ -33,6 +33,10 @@ xdotool key ctrl+t
 sleep 1
 open_url 'otakudesu.cloud'
 
+xdotool key ctrl+t
+sleep 1
+open_url 'instagram.com'
+
 
 wmctrl -s 0
 
