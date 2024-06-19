@@ -54,4 +54,4 @@ firefox_hrdc 'https://paris-app.id/'
 
 wmctrl -s 0
 
-echo "task done, thankyou"
+echo "task done, thankyou aji"

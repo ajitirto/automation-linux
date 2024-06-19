@@ -39,4 +39,4 @@ sleep 2
 
 wmctrl -s 0
 
-echo "task done, thankyou"
+echo "task done, thankyou aji"
